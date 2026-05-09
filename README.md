@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 
 <h3 align="center">
-  Final Year Computer Science Engineer | Java Backend Developer | Problem Solver
+  Final Year Computer Science Engineer | Java Backend Developer | MERN Stack Developer
 </h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Backend+Developer;DSA+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;MERN+Stack+Developer;Microservices+Enthusiast;DSA+Problem+Solver;Building+Real+World+Projects" 
     alt="Typing SVG" 
   />
 </p>
@@ -17,12 +17,13 @@
 # 💫 About Me
 
 - 🎓 Final Year Computer Science Engineering Student
-- 💻 Backend Developer using Java & Spring Boot
+- 💻 Java Backend Developer with Spring Ecosystem
+- 🌐 MERN Stack Developer
 - 🚀 Building scalable full stack applications
-- 📚 Solving DSA regularly
+- 📚 Solving DSA problems regularly
 - 🤖 Working on Eye Disease Detection using Deep Learning
 - 🌱 Currently learning System Design & Microservices
-- ⚡ Love building real-world projects
+- ⚡ Passionate about real-world projects and clean architecture
 
 ---
 
@@ -31,15 +32,19 @@
 <p align="left">
 
 <a href="https://github.com/Omkar-Kamreddi" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+<a href="mailto:omkarkamreddi8@gamil.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/omkar-kamreddi-645a82252/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+
+<a href="https://leetcode.com/u/Omkar_Reddi/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="45" alt="LeetCode"/>
 </a>
 
 </p>
@@ -48,34 +53,53 @@
 
 # 🛠️ Tech Stack
 
-## Languages
+## 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python,c,cpp" />
 </p>
 
-## Backend
+---
+
+## ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-## Frontend
+- Spring MVC
+- Spring Boot
+- Spring Security
+- Microservices Architecture
+- REST APIs
+
+---
+
+## 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
 </p>
 
-## Database
+---
+
+## 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-## Tools
+- SQL
+- PL/SQL
+- MongoDB
+- PostgreSQL
+
+---
+
+## 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ---
@@ -84,7 +108,7 @@
 
 ## 🔹 Eye Disease Detection App
 
-Android application using Deep Learning to predict ocular diseases using fundus images.
+Android application using Deep Learning to predict ocular diseases using retinal/fundus images.
 
 ### Tech Used
 
@@ -104,12 +128,13 @@ Track solved coding questions with progress analytics.
 - Topic-wise tracking
 - Responsive UI
 - Local storage support
+- Clean dashboard UI
 
 ---
 
 ## 🔹 Library Management System
 
-Desktop application for managing books and users.
+Desktop application for managing books, issue records, and users efficiently.
 
 ---
 
@@ -158,6 +183,21 @@ Desktop application for managing books and users.
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Omkar-Kamreddi&theme=tokyo-night" 
   />
+
+</p>
+
+---
+
+# 💻 LeetCode Stats
+
+<p align="center">
+
+  <a href="https://leetcode.com/u/Omkar_Reddi/">
+    <img 
+      src="https://leetcard.jacoblin.cool/Omkar_Reddi?theme=dark&font=Nunito&ext=contest" 
+      alt="LeetCode Stats"
+    />
+  </a>
 
 </p>
 
